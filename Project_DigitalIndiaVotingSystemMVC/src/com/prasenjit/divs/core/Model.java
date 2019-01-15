@@ -1,3 +1,4 @@
+package com.prasenjit.divs.core;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
